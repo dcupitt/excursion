@@ -1,0 +1,25 @@
+* {
+  background-color: black;
+  text-align: center;
+  font-family: "Veranda", sans-serif;
+}
+
+h1,
+h2,
+p {
+  color: white;
+
+}
+
+h3 {
+  color: Grey;
+}
+
+a {
+  color: Aquamarine;
+}
+
+.footer {
+  color: grey;
+  text-align: right;
+}
